@@ -1,0 +1,26 @@
+{
+  "name": "pongbot",
+  "version": "1.0.0",
+  "description": "A pongbot using natural language api wit.ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorgb6/pongbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorgb6/pongbot/issues"
+  },
+  "homepage": "https://github.com/victorgb6/pongbot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "node-telegram-bot-api": "^0.23.3",
+    "node-wit": "^4.1.0",
+    "request": "^2.74.0"
+  }
+}
