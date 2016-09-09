@@ -1,2 +1,4 @@
 node_modules
-.DS_store
+.idea
+/server/config/local.env.js
+npm-debug.log
